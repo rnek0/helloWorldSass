@@ -1,0 +1,4 @@
+name: helloWorldSass
+dev_dependencies:
+  sass: ^1.26.10
+
