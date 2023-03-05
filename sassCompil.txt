@@ -1,4 +1,8 @@
+Command:
+
 dart compile-sass.dart styles.scss styles.css
+
+Exemple pour minima:
 
 ```bash
 dart compile-sass.dart /home/rnek0/codes/WEB/CSS/sass/helloWorldSass/blog/sass/minima.scss /home/rnek0/codes/WEB/CSS/sass/helloWorldSass/blog/sass/main.css

@@ -21,11 +21,24 @@ minima (2.5.1)
 
 ```
 
-## Compilation
+&nbsp;
+
+## Compilation from compile-sass.dart
+
+Clone repo:
+
+```bash
+git clone https://github.com/rnek0/helloWorldSass
+```
+
+Compile :
 
 ```bash
 dart compile-sass.dart /home/rnek0/codes/WEB/CSS/sass/helloWorldSass/blog/sass/minima.scss /home/rnek0/codes/WEB/CSS/sass/helloWorldSass/blog/sass/main.css
+
 sleep 1
+
 less /home/rnek0/codes/WEB/CSS/sass/helloWorldSass/blog/sass/main.css
+
 ```
 
