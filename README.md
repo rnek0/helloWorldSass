@@ -1,4 +1,4 @@
-# Some tests to learn Dart Sass
+# One tool to learn Sass
 
 * Install on Archlinux
 * make a dart file to work with .scss to .css

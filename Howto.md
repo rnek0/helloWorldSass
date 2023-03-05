@@ -38,3 +38,22 @@ dart compile-sass.dart styles.scss styles.css
 
 Enjoy it!
 
+Update (05/03/23) :
+
+* sdk: '>=2.12.0 <3.0.0' on pubspec.yaml
+* dart pub get
+```bash
+❯ dart pub get
+Resolving dependencies... 
+Got dependencies!
+```
+* Compile
+```bash
+❯ dart compile-sass.dart styles.scss styles.css
+```
+
+[Test with minima ](blog/sass/README.md)
+
+```bash
+❯ dart compile-sass.dart peertube.scss peertube.css
+```

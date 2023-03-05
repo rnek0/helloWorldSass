@@ -1,6 +1,8 @@
-$paragraphe: yellow;
+// Learning sass : https://sass-lang.com/guide
+$font-stack: Helvetica, sans-serif;
+$primary-color: #333;
 
-p{
-  color: $paragraphe;
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
 }
-

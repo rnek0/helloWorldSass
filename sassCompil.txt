@@ -1,1 +1,7 @@
 dart compile-sass.dart styles.scss styles.css
+
+```bash
+dart compile-sass.dart /home/rnek0/codes/WEB/CSS/sass/helloWorldSass/blog/sass/minima.scss /home/rnek0/codes/WEB/CSS/sass/helloWorldSass/blog/sass/main.css
+sleep 1
+less /home/rnek0/codes/WEB/CSS/sass/helloWorldSass/blog/sass/main.css
+```
